@@ -1,2 +1,0 @@
-# ImageCrawlerStreamlit
-ImageCrawler with Streamlit
